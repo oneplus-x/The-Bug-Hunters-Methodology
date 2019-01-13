@@ -20,9 +20,7 @@ The current sections are divided as follows:
 * [Mobile vulnerabilities](/10_Mobile.md)
 * [Auxiliary Information](/11_Auxiliary_Info.md)
 
-The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during thier day-to-day work. 
-
-@jhaddix
+The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during their day-to-day work. 
 
 ## Defcon Video
 
